@@ -18,10 +18,10 @@ This is a simple Python project for analyzing data to observe the impact of COVI
 - Revenue of Retail Trade and Food Services of USA through these years and forecast for the future. 
 
 ### Data Sources :
-- [United States Census Bureau] (https://data.census.gov/cedsci)
-- [QSR Top 50 2008-2018] (https://www.qsrmagazine.com/downloads/qsr-50-2008-2018)
-- [Our World in Data] (https://ourworldindata.org)
-- [Knoema] (https://knoema.com/atlas/India/topics/Food-Security/Expenditures-Spent-on-Food/Expenditure-on-food-per-capita#:~:text=India%20%2D%20Expenditure%20on%20food%20per%20capita&text=In%202018%2C%20expenditure%20on%20food,average%20annual%20rate%20of%207.73%25.)
+- [United States Census Bureau](https://data.census.gov/cedsci)
+- [QSR Top 50 2008-2018](https://www.qsrmagazine.com/downloads/qsr-50-2008-2018)
+- [Our World in Data](https://ourworldindata.org)
+- [Knoema](https://knoema.com/atlas/India/topics/Food-Security/Expenditures-Spent-on-Food/Expenditure-on-food-per-capita#:~:text=India%20%2D%20Expenditure%20on%20food%20per%20capita&text=In%202018%2C%20expenditure%20on%20food,average%20annual%20rate%20of%207.73%25.)
 
 ### Libraries Used :
 
