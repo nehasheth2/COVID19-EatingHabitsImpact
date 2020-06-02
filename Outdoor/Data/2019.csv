@@ -1,0 +1,51 @@
+Rank,Chain,Sales,Units,Menu Category
+1,McDonald's,"$40,412","13,846",Burger
+2,Starbucks,"$21,380*","15,049",Coffee Cafe
+3,Chick-fil-A,"$11,320*","2,470",Chicken
+4,Taco Bell,"$11,293","6,766",Mexican
+5,Burger King,"$10,204","7,346",Burger
+6,Subway,"$10,200","23,801",Sandwich
+7,Wendy's,"$9,762","5,852",Burger
+8,Dunkin',"$9,228","9,630",Coffee Cafe
+9,Domino's,"$7,044","6,126",Pizza
+10,Panera Bread,"$5,890*","2,160",Bakery Cafe
+11,Pizza Hut,"$5,558","7,306",Pizza
+12,Chipotle Mexican Grill,"$5,509","2,584",Mexican
+13,Sonic Drive-In,"$4,687","3,526",Burger
+14,KFC,"$4,546","4,065",Chicken
+15,Olive Garden,"$4,287",866,Italian/Pizza
+16,Applebee's,"$4,085","1,665",Varied Menu
+17,Panda Express,"$3,946","2,209",Asian/Noodle
+18,Arby's,"$3,884","3,359",Sandwich
+19,Popeyes Louisiana Kitchen,"$3,812","2,476",Chicken
+20,Little Caesars,"$3,811*","4,237",Pizza
+21,Dairy Queen,"$3,760","4,381",Frozen Desserts
+22,Buffalo Wild Wings,"$3,669","1,206",Sports Bar
+23,Chili's Grill & Bar,"$3,563*","1,242",Varied Menu
+24,Jack in the Box,"$3,504","2,243",Burger
+25,IHOP,"$3,266","1,710",Family Style
+26,Texas Roadhouse,"$3,016*",553,Steak
+27,Denny's,"$2,691","1,558",Family Style
+28,Papa John's,"$2,638","3,142",Pizza
+29,Outback Steakhouse,"$2,635",724,Steak
+30,Whataburger,"$2,556",830,Burger
+31,Red Lobster,"$2,490*",679,Seafood
+32,Cracker Barrel,"$2,482",660,Family Style
+33,The Cheesecake Factory,"$2,180",206,Varied Menu
+34,Jimmy John's Gourmet Sandwiches,"$2,105","2,787",Sandwich
+35,Hardee's,"$2,020*","1,820",Burger
+36,Zaxby's,"$1,886*",910,Chicken
+37,LongHorn Steakhouse,"$1,867",530,Steak
+38,Culver's,"$1,795",732,Burger
+39,Golden Corral,"$1,746",483,Family Casual
+40,Five Guys Burgers and Fries,"$1,661","1,368",Burger
+41,Red Robin Gourmet Burgers and Brews,"$1,548",556,Varied Menu
+42,Raising Cane's Chicken Fingers,"$1,466",457,Chicken
+43,Carl's Jr.,"$1,423*","1,095",Burger
+44,Wingstop,"$1,363","1,231",Chicken
+45,Waffle House,"$1,344*","1,959",Family Style
+46,Jersey Mike's Subs,"$1,340","1,667",Sandwich
+47,Bojangles',"$1,331",746,Chicken
+48,BJ's Restaurant & Brewhouse,"$1,161",208,Varied Menu
+49,TGI Fridays,"$1,085*",385,Varied Menu
+50,In-N-Out Burger,$957*,351,Burger
